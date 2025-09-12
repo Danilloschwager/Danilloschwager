@@ -24,8 +24,7 @@ I'm very dedicated and adaptable to any changes in the proposed project. I'm foc
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
 
-## 📬 **Get in Touch!**
 
-<span style="white-space: nowrap;">Email: danillo.de06v@gmail.com • LinkedIn: www.linkedin.com/in/danillo-schwager-18aa20371</span>
+
 ﻿
 
