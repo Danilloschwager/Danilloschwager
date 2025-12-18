@@ -34,12 +34,7 @@ Microservices architecture with Java, Docker, and PostgreSQL — scalable and cl
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dan-dev&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dan-dev&layout=compact&theme=tokyonight&langs_count=5&hide=html,css,javascript" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Dan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
 </p>
 
 ---
