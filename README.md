@@ -2,58 +2,62 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Danillo%20Schwager&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">Software Engineer | Back-End Developer</h3>
+<h3 align="center">💻 Software Engineer | Back-End Developer</h3>
 
 <p align="center">
   <strong>Java • Spring Boot • REST APIs • Databases • Docker</strong>
 </p>
 
 <p align="center">
-  Designing scalable, maintainable, and high-performance back-end systems
+  Building scalable, maintainable, and high-performance back-end systems
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Back-End Software Engineer** focused on building **robust, scalable, and maintainable server-side applications**.
+I'm a **Back-End Software Engineer** passionate about designing **robust, scalable, and well-structured server-side applications**.
 
-My core expertise lies in **Java** and **Spring Boot**, with strong experience in **RESTful API design**, **database modeling**, and **clean architecture principles**.
+My main stack is **Java with Spring Boot**, where I focus on:
+- RESTful API design  
+- Clean Architecture  
+- SOLID principles  
+- Database modeling and performance  
 
-I continuously improve my skills in **Advanced Java**, **Spring Boot**, and **modern software architecture patterns**, applying best practices such as **SOLID**, **Clean Code**, and **test-driven development**.
-
-I also have hands-on experience with **Python (Django)**, **Docker**, and cloud-ready applications.
+I also work with **Python (Django)**, **Docker**, and cloud-ready applications, always aiming for **clean code, testability, and long-term maintainability**.
 
 ---
 
 ## 🧠 Tech Stack
 
 <p align="center">
-  <img 
-    src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,python,django,docker,postgres,mysql,linux,git,github,idea,vscode,aws&perline=15" 
-  />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,python,django,docker,postgres,mysql,linux,git,github,idea,vscode,aws&perline=8" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧩 Spring Boot REST API
-- RESTful API built with **Spring Boot**, **JPA**, and **PostgreSQL**
-- JWT authentication and role-based authorization
-- Input validation and global exception handling
-- Unit and integration tests
-- Clean architecture and best practices
+### 🔹 Spring Boot REST API
+- RESTful API using **Spring Boot**, **JPA**, and **PostgreSQL**
+- JWT authentication & role-based authorization
+- Global exception handling and validation
+- Unit and integration testing
+- Clean architecture & best practices
 
-### 🐍 Django Task Manager
-- Task management web application built with **Django**
+---
+
+### 🔹 Django Task Manager
+- Task management system built with **Django**
 - Secure authentication
-- Full CRUD operations
-- Clean and responsive user interface
+- Full CRUD features
+- Clean and responsive UI
 
-### 🐳 Dockerized Microservices
-- Microservices architecture using **Java** and **Docker**
-- PostgreSQL as the primary data store
+---
+
+### 🔹 Dockerized Microservices
+- Microservices architecture using **Java + Docker**
+- PostgreSQL as primary database
 - Environment-based configuration
 - Designed for scalability and cloud deployment
 
@@ -61,12 +65,12 @@ I also have hands-on experience with **Python (Django)**, **Docker**, and cloud-
 
 ## 🧩 Engineering Focus
 
-- Designing **clean and maintainable APIs**
-- Writing **testable and scalable code**
-- Applying **SOLID principles** and **clean architecture**
-- Database design and performance optimization
-- Containerized applications with Docker
-- Continuous learning and technical improvement
+- Clean and maintainable API design  
+- Scalable and testable code  
+- SOLID & Clean Architecture  
+- Database performance optimization  
+- Containerized applications with Docker  
+- Continuous learning and improvement  
 
 ---
 
@@ -82,5 +86,5 @@ I also have hands-on experience with **Python (Django)**, **Docker**, and cloud-
 </p>
 
 <p align="center">
-  <strong>Always learning. Always building.</strong>
+  <strong>Always learning. Always building.</strong> 🚀
 </p>
