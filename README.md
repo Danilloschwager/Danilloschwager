@@ -19,7 +19,3 @@ Strong experience in RESTful APIs, JPA/Hibernate, relational databases, Docker, 
 - Database Modeling & Optimization  
 - JWT Authentication & Security  
 - Docker & Cloud-Ready Applications  
-
----
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danillo-araújo-schwager-18aa20371)
