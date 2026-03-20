@@ -8,7 +8,7 @@ Strong experience in RESTful APIs, JPA/Hibernate, relational databases, Docker, 
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate,maven,python,django,docker,postgres,mysql,linux,git,github,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,python,django,docker,postgres,mysql,linux,git,github,aws)](https://skillicons.dev)
 
 ---
 
