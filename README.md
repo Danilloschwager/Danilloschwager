@@ -1,8 +1,8 @@
 ## Danillo Schwager
 
-Backend Software Engineer specialized in building scalable, secure, and maintainable systems with Java and Spring Boot.
+Backend Software Engineer specializing in scalable, secure, and high-performance systems using Java and Spring Boot.
 
-Strong experience in RESTful APIs, JPA/Hibernate, relational databases, Docker, and Clean Architecture — delivering production-ready, testable, and high-performance backend solutions.
+I design and build production-ready RESTful APIs with a strong focus on clean architecture, performance, and maintainability.
 
 ---
 
@@ -14,8 +14,8 @@ Strong experience in RESTful APIs, JPA/Hibernate, relational databases, Docker, 
 
 ### Core Expertise
 
-- REST API Design  
-- Clean Architecture & SOLID  
+- RESTful API Design & Development  
+- Clean Architecture & SOLID Principles  
 - Database Modeling & Optimization  
-- JWT Authentication & Security  
+- Authentication & Security (JWT)  
 - Docker & Cloud-Ready Applications  
