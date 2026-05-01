@@ -31,7 +31,7 @@ Experienced in building RESTful APIs with emphasis on clean architecture, mainta
 </p>
 
 <p>
-  DataGrip (Database management and query optimization)
+
 </p>
 
 ---
