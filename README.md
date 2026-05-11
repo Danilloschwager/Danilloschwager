@@ -24,18 +24,3 @@ Experienced in building RESTful APIs with emphasis on clean architecture, mainta
 
 ---
 
-### Development Environment
-
-<p>
-  <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode" />
-</p>
-
-<p>
-
-</p>
-
----
-
-### Summary
-
-Backend engineer focused on scalable APIs, clean architecture, and performance.
