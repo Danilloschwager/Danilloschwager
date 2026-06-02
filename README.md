@@ -9,7 +9,7 @@ Experienced in building RESTful APIs with emphasis on clean architecture, mainta
 ### Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django,go,docker,postgres,git,aws,wordpress" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django,go,docker,postgres,aws,wordpress" />
 </p>
 
 ---
